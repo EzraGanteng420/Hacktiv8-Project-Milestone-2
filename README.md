@@ -20,14 +20,20 @@ https://www.canva.com/design/DAGdGEZgsu0/2lF7ZeiEMpTDI7Pk7C09yw/edit?ui=eyJIIjp7
 
 ## Teknik yang digunakan
 1.Statistik Deskriptif
+
 2.Statistik Inferensial 
 
 ## Tools yang digunakan
 1.Microsoft Visual Studio untuk membersihkan data menggunakan Python dalam format Jupyter
+
 2.Pandas
+
 3.Matplotlib
+
 4.Seaborn
+
 5.Numpy
+
 6.Scipy.Stats
 
 ## Finding 
