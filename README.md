@@ -1,6 +1,12 @@
-Dalam Repo Ini saya menyertakan file IPYNB, link Tableau serta slide presentasi saya (will be updated soon)
+## Objective
 
-Link Tableau https://public.tableau.com/app/profile/m.irfizzanov/viz/Book1_17376424465130/Dashboard1?publish=yes
+Data IMDb menunjukkan bahwa film horor berkualitas tinggi tidak selalu bergantung pada elemen agama atau cerita viral yang kebenarannya dipertanyakan.  Banyak film horor sukses yang  mengutamakan aspek sinematik seperti  penyutradaraan,  penulisan naskah,  akting, dan sinematografi  untuk menciptakan  atmosfer  yang  efektif.
 
+film horor yang berkualitas tidak  bergantung  pada  formula  yang  klise.  Inovasi  dan  originalitas  dalam  bercerita  adalah  kunci  untuk  menghasilkan  film  horor  yang  menarik  dan  berkesan.
 
-Link Slide Canva https://www.canva.com/design/DAGdGEZgsu0/2lF7ZeiEMpTDI7Pk7C09yw/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0
+Semoga analisis dan rekomendasi ini bermanfaat bagi para "sinefil" dan  penikmat  film  horor.
+
+Tidak lupa saya sertakan link Dashboard yang tampilannya akan saya perbaiki bila sempat
+
+## Tableau
+https://public.tableau.com/app/profile/m.irfizzanov/viz/Book1_17376424465130/Dashboard1?publish=yes
